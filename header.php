@@ -26,6 +26,7 @@ defined ('NOM_DE_LEQUIPE') or define ('NOM_DE_LEQUIPE', 'Le nom de l\'équipe');
     </header>
     <nav class="nav">
         <a class="nav-link" href="index.php">Accueil</a>
+        <a class="nav-link" href="guillaume.php">Guillaume</a>
 		<!-- ici iront les autres liens -->
     </nav>
     <main>
