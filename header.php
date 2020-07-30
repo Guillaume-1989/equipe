@@ -28,6 +28,9 @@ defined ('NOM_DE_LEQUIPE') or define ('NOM_DE_LEQUIPE', 'La Grosse Equipe');
     <nav class="nav">
         <a class="nav-link" href="index.php">Accueil</a>
         <a class="nav-link" href="guillaume.php">Guillaume</a>
+        <a class="nav-link" href="jc.php">JC</a>
+        <a class="nav-link" href="kevin.php">Kevin</a>
+        <a class="nav-link" href="anecdotes.php">Nos anecdotes</a>
 		<!-- ici iront les autres liens -->
     </nav>
     <main>
