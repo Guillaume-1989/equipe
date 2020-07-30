@@ -1,7 +1,6 @@
 <?php
-defined ('NOM_DE_LEQUIPE') or define ('NOM_DE_LEQUIPE', 'Le nom de l\'équipe');
+defined ('NOM_DE_LEQUIPE') or define ('NOM_DE_LEQUIPE', 'La Grosse Equipe');
 
-$titre = "La Grosse Equipe";
 ?>
 <!DOCTYPE html>
 <html lang="en">
