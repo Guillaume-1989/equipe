@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    La grosse équipe !
+    Bienvenue sur le site de La grosse équipe !
 </body>
 </html>
